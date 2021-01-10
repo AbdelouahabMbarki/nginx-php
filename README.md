@@ -25,7 +25,7 @@ This image is based on [php:7.2-fpm](https://hub.docker.com/layers/php/library/p
 To pull the image:
 
 ```
-docker pull bkraul/php-nginx
+docker pull h1rkul2/nginx-php
 ```
 
 For more information on how to use the image, go to the [H1rkul2/nginx-php](https://hub.docker.com/r/h1rkul2/nginx-php) page.
