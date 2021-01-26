@@ -16,7 +16,7 @@ This image is based on [php:7.2-fpm](https://hub.docker.com/layers/php/library/p
 
 | Tags | PHP Version | Composer Version | Node Version | Nginx Version | Distribution |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 7.2.34 |  2.0.8 2020-12-03 17:20:38 | 10.23.1 | 1.14.2 | Debian 10 (buster) |
+| 1.0 | 7.2.34 |  1.6.3 2018-01-31 16:28:17 | 10.23.1 | 1.14.2 | Debian 10 (buster) |
 
 # Usage
 
