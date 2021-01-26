@@ -73,7 +73,7 @@ RUN apt-get install -y --no-install-recommends libmagickwand-dev && \
     pecl install imagick-3.4.3 && \
     docker-php-ext-enable imagick
 
-RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin/ --filename=composer
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin/ --filename=composer --version=1.6.3
 
 
 RUN echo "upload_max_filesize = 100M" > /usr/local/etc/php/php.ini && \
